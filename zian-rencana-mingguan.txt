@@ -1,4 +1,6 @@
 rencana zian seminggu
 
 - menyelesaikan sanber max hari kamis
+  * ngeprint materi hari terakhir
 - hari jum at zian mencoba koding dari internet
+  * ngoding tentang dataset sentimen analisis
